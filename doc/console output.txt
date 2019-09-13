@@ -1,0 +1,2011 @@
+====================
+ARRAY LENGTH 4:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 27, Comparisons: 19, Time (seconds): 2.17E-5
+
+Mergesort
+Assignments: 16, Comparisons: 16, Time (seconds): 6.29E-5
+
+Insertionsort
+Assignments: 3, Comparisons: 3, Time (seconds): 1.2E-5
+
+Selectionsort
+Assignments: 12, Comparisons: 16, Time (seconds): 1.24E-5
+
+Heapsort
+Assignments: 20, Comparisons: 27, Time (seconds): 1.86E-5
+
+Radixsort
+Assignments: 22, Comparisons: 27, Time (seconds): 8.597E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 27, Comparisons: 19, Time (seconds): 9.9E-6
+
+Mergesort
+Assignments: 16, Comparisons: 16, Time (seconds): 1.03E-5
+
+Insertionsort
+Assignments: 3, Comparisons: 3, Time (seconds): 5.3E-6
+
+Selectionsort
+Assignments: 12, Comparisons: 16, Time (seconds): 6.4E-6
+
+Heapsort
+Assignments: 20, Comparisons: 27, Time (seconds): 9.2E-6
+
+Radixsort
+Assignments: 22, Comparisons: 27, Time (seconds): 6.86E-5
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 9, Comparisons: 19, Time (seconds): 9.9E-6
+
+Mergesort
+Assignments: 16, Comparisons: 16, Time (seconds): 1.01E-5
+
+Insertionsort
+Assignments: 6, Comparisons: 6, Time (seconds): 6.3E-6
+
+Selectionsort
+Assignments: 12, Comparisons: 16, Time (seconds): 6.9E-6
+
+Heapsort
+Assignments: 21, Comparisons: 27, Time (seconds): 9.4E-6
+
+Radixsort
+Assignments: 38, Comparisons: 85, Time (seconds): 3.37E-5
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 27, Comparisons: 19, Time (seconds): 8.1E-6
+
+Mergesort
+Assignments: 16, Comparisons: 16, Time (seconds): 1.02E-5
+
+Insertionsort
+Assignments: 3, Comparisons: 3, Time (seconds): 5.3E-6
+
+Selectionsort
+Assignments: 12, Comparisons: 16, Time (seconds): 8.5E-6
+
+Heapsort
+Assignments: 20, Comparisons: 27, Time (seconds): 8.9E-6
+
+Radixsort
+Assignments: 22, Comparisons: 27, Time (seconds): 1.89E-5
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 15, Comparisons: 19, Time (seconds): 7.8E-6
+
+Mergesort
+Assignments: 16, Comparisons: 16, Time (seconds): 9.7E-6
+
+Insertionsort
+Assignments: 9, Comparisons: 9, Time (seconds): 6.4E-6
+
+Selectionsort
+Assignments: 12, Comparisons: 16, Time (seconds): 6.8E-6
+
+Heapsort
+Assignments: 18, Comparisons: 24, Time (seconds): 8.9E-6
+
+Radixsort
+Assignments: 22, Comparisons: 27, Time (seconds): 2.11E-5
+====================
+
+
+
+====================
+ARRAY LENGTH 8:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 105, Comparisons: 71, Time (seconds): 1.05E-5
+
+Mergesort
+Assignments: 48, Comparisons: 48, Time (seconds): 1.29E-5
+
+Insertionsort
+Assignments: 7, Comparisons: 7, Time (seconds): 2.3E-6
+
+Selectionsort
+Assignments: 24, Comparisons: 64, Time (seconds): 6.2E-6
+
+Heapsort
+Assignments: 52, Comparisons: 75, Time (seconds): 1.09E-5
+
+Radixsort
+Assignments: 34, Comparisons: 43, Time (seconds): 2.27E-5
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 105, Comparisons: 71, Time (seconds): 1.2E-5
+
+Mergesort
+Assignments: 48, Comparisons: 48, Time (seconds): 1.29E-5
+
+Insertionsort
+Assignments: 7, Comparisons: 7, Time (seconds): 4.5E-6
+
+Selectionsort
+Assignments: 24, Comparisons: 64, Time (seconds): 4.5E-6
+
+Heapsort
+Assignments: 52, Comparisons: 75, Time (seconds): 6.5E-6
+
+Radixsort
+Assignments: 34, Comparisons: 43, Time (seconds): 1.74E-5
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 24, Comparisons: 45, Time (seconds): 3.9E-6
+
+Mergesort
+Assignments: 48, Comparisons: 48, Time (seconds): 7.8E-6
+
+Insertionsort
+Assignments: 24, Comparisons: 24, Time (seconds): 2.6E-6
+
+Selectionsort
+Assignments: 24, Comparisons: 64, Time (seconds): 4.0E-6
+
+Heapsort
+Assignments: 49, Comparisons: 72, Time (seconds): 5.8E-6
+
+Radixsort
+Assignments: 66, Comparisons: 137, Time (seconds): 2.37E-5
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 72, Comparisons: 53, Time (seconds): 4.5E-6
+
+Mergesort
+Assignments: 48, Comparisons: 48, Time (seconds): 7.3E-6
+
+Insertionsort
+Assignments: 9, Comparisons: 9, Time (seconds): 1.7E-6
+
+Selectionsort
+Assignments: 24, Comparisons: 64, Time (seconds): 3.6E-6
+
+Heapsort
+Assignments: 52, Comparisons: 75, Time (seconds): 6.2E-6
+
+Radixsort
+Assignments: 34, Comparisons: 43, Time (seconds): 1.47E-5
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 57, Comparisons: 71, Time (seconds): 5.0E-6
+
+Mergesort
+Assignments: 48, Comparisons: 48, Time (seconds): 7.3E-6
+
+Insertionsort
+Assignments: 35, Comparisons: 35, Time (seconds): 3.4E-6
+
+Selectionsort
+Assignments: 24, Comparisons: 64, Time (seconds): 3.5E-5
+
+Heapsort
+Assignments: 44, Comparisons: 66, Time (seconds): 1.07E-5
+
+Radixsort
+Assignments: 34, Comparisons: 43, Time (seconds): 2.1E-5
+====================
+
+
+
+====================
+ARRAY LENGTH 16:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 405, Comparisons: 271, Time (seconds): 3.05E-5
+
+Mergesort
+Assignments: 128, Comparisons: 128, Time (seconds): 3.32E-5
+
+Insertionsort
+Assignments: 15, Comparisons: 15, Time (seconds): 3.6E-6
+
+Selectionsort
+Assignments: 48, Comparisons: 256, Time (seconds): 1.74E-5
+
+Heapsort
+Assignments: 124, Comparisons: 195, Time (seconds): 2.14E-5
+
+Radixsort
+Assignments: 90, Comparisons: 150, Time (seconds): 1.241E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 405, Comparisons: 271, Time (seconds): 1.2E-5
+
+Mergesort
+Assignments: 128, Comparisons: 128, Time (seconds): 1.56E-5
+
+Insertionsort
+Assignments: 15, Comparisons: 15, Time (seconds): 2.0E-6
+
+Selectionsort
+Assignments: 48, Comparisons: 256, Time (seconds): 9.5E-6
+
+Heapsort
+Assignments: 123, Comparisons: 195, Time (seconds): 1.43E-5
+
+Radixsort
+Assignments: 90, Comparisons: 150, Time (seconds): 4.92E-5
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 99, Comparisons: 131, Time (seconds): 6.0E-6
+
+Mergesort
+Assignments: 128, Comparisons: 128, Time (seconds): 1.55E-5
+
+Insertionsort
+Assignments: 84, Comparisons: 84, Time (seconds): 6.7E-6
+
+Selectionsort
+Assignments: 48, Comparisons: 256, Time (seconds): 9.8E-6
+
+Heapsort
+Assignments: 116, Comparisons: 189, Time (seconds): 1.14E-5
+
+Radixsort
+Assignments: 122, Comparisons: 241, Time (seconds): 5.12E-5
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 231, Comparisons: 173, Time (seconds): 8.6E-6
+
+Mergesort
+Assignments: 128, Comparisons: 128, Time (seconds): 1.52E-5
+
+Insertionsort
+Assignments: 25, Comparisons: 25, Time (seconds): 2.7E-6
+
+Selectionsort
+Assignments: 48, Comparisons: 256, Time (seconds): 9.8E-6
+
+Heapsort
+Assignments: 124, Comparisons: 198, Time (seconds): 1.24E-5
+
+Radixsort
+Assignments: 90, Comparisons: 150, Time (seconds): 3.37E-5
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 213, Comparisons: 271, Time (seconds): 1.0E-5
+
+Mergesort
+Assignments: 128, Comparisons: 128, Time (seconds): 4.57E-5
+
+Insertionsort
+Assignments: 135, Comparisons: 135, Time (seconds): 2.22E-5
+
+Selectionsort
+Assignments: 48, Comparisons: 256, Time (seconds): 2.54E-5
+
+Heapsort
+Assignments: 108, Comparisons: 174, Time (seconds): 2.34E-5
+
+Radixsort
+Assignments: 90, Comparisons: 150, Time (seconds): 7.61E-5
+====================
+
+
+
+====================
+ARRAY LENGTH 32:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1581, Comparisons: 1055, Time (seconds): 9.35E-5
+
+Mergesort
+Assignments: 320, Comparisons: 320, Time (seconds): 5.61E-5
+
+Insertionsort
+Assignments: 31, Comparisons: 31, Time (seconds): 7.7E-6
+
+Selectionsort
+Assignments: 96, Comparisons: 1024, Time (seconds): 8.44E-5
+
+Heapsort
+Assignments: 288, Comparisons: 495, Time (seconds): 6.35E-5
+
+Radixsort
+Assignments: 170, Comparisons: 278, Time (seconds): 7.69E-5
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1323, Comparisons: 889, Time (seconds): 6.96E-5
+
+Mergesort
+Assignments: 320, Comparisons: 320, Time (seconds): 3.46E-5
+
+Insertionsort
+Assignments: 35, Comparisons: 35, Time (seconds): 8.2E-6
+
+Selectionsort
+Assignments: 96, Comparisons: 1024, Time (seconds): 9.42E-5
+
+Heapsort
+Assignments: 286, Comparisons: 492, Time (seconds): 6.27E-5
+
+Radixsort
+Assignments: 170, Comparisons: 278, Time (seconds): 9.02E-5
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 303, Comparisons: 335, Time (seconds): 4.44E-5
+
+Mergesort
+Assignments: 320, Comparisons: 320, Time (seconds): 4.63E-5
+
+Insertionsort
+Assignments: 318, Comparisons: 318, Time (seconds): 6.51E-5
+
+Selectionsort
+Assignments: 96, Comparisons: 1024, Time (seconds): 1.006E-4
+
+Heapsort
+Assignments: 274, Comparisons: 486, Time (seconds): 7.81E-5
+
+Radixsort
+Assignments: 234, Comparisons: 449, Time (seconds): 1.266E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 744, Comparisons: 533, Time (seconds): 5.33E-5
+
+Mergesort
+Assignments: 320, Comparisons: 320, Time (seconds): 3.06E-5
+
+Insertionsort
+Assignments: 114, Comparisons: 114, Time (seconds): 2.01E-5
+
+Selectionsort
+Assignments: 96, Comparisons: 1024, Time (seconds): 7.89E-5
+
+Heapsort
+Assignments: 284, Comparisons: 489, Time (seconds): 6.94E-5
+
+Radixsort
+Assignments: 170, Comparisons: 278, Time (seconds): 6.85E-5
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 813, Comparisons: 1055, Time (seconds): 6.35E-5
+
+Mergesort
+Assignments: 320, Comparisons: 320, Time (seconds): 1.11E-5
+
+Insertionsort
+Assignments: 527, Comparisons: 527, Time (seconds): 8.54E-5
+
+Selectionsort
+Assignments: 96, Comparisons: 1024, Time (seconds): 7.98E-5
+
+Heapsort
+Assignments: 252, Comparisons: 441, Time (seconds): 1.16E-5
+
+Radixsort
+Assignments: 170, Comparisons: 278, Time (seconds): 7.08E-5
+====================
+
+
+
+====================
+ARRAY LENGTH 64:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 6237, Comparisons: 4159, Time (seconds): 3.037E-4
+
+Mergesort
+Assignments: 768, Comparisons: 768, Time (seconds): 1.37E-5
+
+Insertionsort
+Assignments: 63, Comparisons: 63, Time (seconds): 1.51E-5
+
+Selectionsort
+Assignments: 192, Comparisons: 4096, Time (seconds): 2.99E-4
+
+Heapsort
+Assignments: 648, Comparisons: 1191, Time (seconds): 2.2E-5
+
+Radixsort
+Assignments: 330, Comparisons: 534, Time (seconds): 1.331E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 5373, Comparisons: 3595, Time (seconds): 3.06E-5
+
+Mergesort
+Assignments: 768, Comparisons: 768, Time (seconds): 1.28E-5
+
+Insertionsort
+Assignments: 73, Comparisons: 73, Time (seconds): 1.6E-5
+
+Selectionsort
+Assignments: 192, Comparisons: 4096, Time (seconds): 2.995E-4
+
+Heapsort
+Assignments: 642, Comparisons: 1191, Time (seconds): 2.32E-5
+
+Radixsort
+Assignments: 330, Comparisons: 534, Time (seconds): 1.222E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 627, Comparisons: 745, Time (seconds): 9.0E-6
+
+Mergesort
+Assignments: 768, Comparisons: 768, Time (seconds): 1.6E-5
+
+Insertionsort
+Assignments: 1099, Comparisons: 1099, Time (seconds): 1.695E-4
+
+Selectionsort
+Assignments: 192, Comparisons: 4096, Time (seconds): 3.044E-4
+
+Heapsort
+Assignments: 614, Comparisons: 1152, Time (seconds): 2.32E-5
+
+Radixsort
+Assignments: 458, Comparisons: 865, Time (seconds): 1.868E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 2337, Comparisons: 1653, Time (seconds): 1.22E-5
+
+Mergesort
+Assignments: 768, Comparisons: 768, Time (seconds): 1.44E-5
+
+Insertionsort
+Assignments: 328, Comparisons: 328, Time (seconds): 5.52E-5
+
+Selectionsort
+Assignments: 192, Comparisons: 4096, Time (seconds): 3.102E-4
+
+Heapsort
+Assignments: 625, Comparisons: 1143, Time (seconds): 2.22E-5
+
+Radixsort
+Assignments: 330, Comparisons: 534, Time (seconds): 1.229E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 3165, Comparisons: 4159, Time (seconds): 1.89E-5
+
+Mergesort
+Assignments: 768, Comparisons: 768, Time (seconds): 1.15E-5
+
+Insertionsort
+Assignments: 2079, Comparisons: 2079, Time (seconds): 3.185E-4
+
+Selectionsort
+Assignments: 192, Comparisons: 4096, Time (seconds): 3.125E-4
+
+Heapsort
+Assignments: 572, Comparisons: 1074, Time (seconds): 2.09E-5
+
+Radixsort
+Assignments: 330, Comparisons: 534, Time (seconds): 1.259E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 128:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 24765, Comparisons: 16511, Time (seconds): 8.15E-5
+
+Mergesort
+Assignments: 1792, Comparisons: 1792, Time (seconds): 2.63E-5
+
+Insertionsort
+Assignments: 127, Comparisons: 127, Time (seconds): 2.66E-5
+
+Selectionsort
+Assignments: 384, Comparisons: 16384, Time (seconds): 0.0011683
+
+Heapsort
+Assignments: 1430, Comparisons: 2778, Time (seconds): 6.41E-5
+
+Radixsort
+Assignments: 906, Comparisons: 1697, Time (seconds): 3.357E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 19908, Comparisons: 13305, Time (seconds): 6.81E-5
+
+Mergesort
+Assignments: 1792, Comparisons: 1792, Time (seconds): 2.43E-5
+
+Insertionsort
+Assignments: 179, Comparisons: 179, Time (seconds): 3.34E-5
+
+Selectionsort
+Assignments: 384, Comparisons: 16384, Time (seconds): 0.0011926
+
+Heapsort
+Assignments: 1427, Comparisons: 2769, Time (seconds): 4.6E-5
+
+Radixsort
+Assignments: 906, Comparisons: 1697, Time (seconds): 3.176E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1491, Comparisons: 1993, Time (seconds): 1.8E-5
+
+Mergesort
+Assignments: 1792, Comparisons: 1792, Time (seconds): 2.95E-5
+
+Insertionsort
+Assignments: 4410, Comparisons: 4410, Time (seconds): 6.549E-4
+
+Selectionsort
+Assignments: 384, Comparisons: 16384, Time (seconds): 0.0012117
+
+Heapsort
+Assignments: 1343, Comparisons: 2676, Time (seconds): 5.6E-5
+
+Radixsort
+Assignments: 906, Comparisons: 1697, Time (seconds): 4.094E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 6849, Comparisons: 4791, Time (seconds): 7.32E-5
+
+Mergesort
+Assignments: 1792, Comparisons: 1792, Time (seconds): 4.39E-5
+
+Insertionsort
+Assignments: 1299, Comparisons: 1299, Time (seconds): 2.323E-4
+
+Selectionsort
+Assignments: 384, Comparisons: 16384, Time (seconds): 0.0011876
+
+Heapsort
+Assignments: 1369, Comparisons: 2664, Time (seconds): 4.6E-5
+
+Radixsort
+Assignments: 906, Comparisons: 1697, Time (seconds): 3.295E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 12477, Comparisons: 16511, Time (seconds): 6.95E-5
+
+Mergesort
+Assignments: 1792, Comparisons: 1792, Time (seconds): 2.56E-5
+
+Insertionsort
+Assignments: 8255, Comparisons: 8255, Time (seconds): 0.0012185
+
+Selectionsort
+Assignments: 384, Comparisons: 16384, Time (seconds): 0.0012183
+
+Heapsort
+Assignments: 1262, Comparisons: 2508, Time (seconds): 4.42E-5
+
+Radixsort
+Assignments: 906, Comparisons: 1697, Time (seconds): 3.197E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 256:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 98685, Comparisons: 65791, Time (seconds): 1.877E-4
+
+Mergesort
+Assignments: 4096, Comparisons: 4096, Time (seconds): 4.94E-5
+
+Insertionsort
+Assignments: 255, Comparisons: 255, Time (seconds): 4.87E-5
+
+Selectionsort
+Assignments: 768, Comparisons: 65536, Time (seconds): 0.0015009
+
+Heapsort
+Assignments: 3122, Comparisons: 6369, Time (seconds): 9.34E-5
+
+Radixsort
+Assignments: 1802, Comparisons: 3361, Time (seconds): 6.57E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 75849, Comparisons: 50651, Time (seconds): 7.93E-5
+
+Mergesort
+Assignments: 4096, Comparisons: 4096, Time (seconds): 5.2E-5
+
+Insertionsort
+Assignments: 524, Comparisons: 524, Time (seconds): 8.87E-5
+
+Selectionsort
+Assignments: 768, Comparisons: 65536, Time (seconds): 3.296E-4
+
+Heapsort
+Assignments: 3097, Comparisons: 6309, Time (seconds): 9.48E-5
+
+Radixsort
+Assignments: 1802, Comparisons: 3361, Time (seconds): 6.415E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 4473, Comparisons: 4779, Time (seconds): 1.4E-5
+
+Mergesort
+Assignments: 4096, Comparisons: 4096, Time (seconds): 2.99E-5
+
+Insertionsort
+Assignments: 15371, Comparisons: 15371, Time (seconds): 0.0010075
+
+Selectionsort
+Assignments: 768, Comparisons: 65536, Time (seconds): 1.408E-4
+
+Heapsort
+Assignments: 2980, Comparisons: 6126, Time (seconds): 4.1E-5
+
+Radixsort
+Assignments: 1802, Comparisons: 3361, Time (seconds): 2.899E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 19290, Comparisons: 13413, Time (seconds): 1.63E-5
+
+Mergesort
+Assignments: 4096, Comparisons: 4096, Time (seconds): 3.33E-5
+
+Insertionsort
+Assignments: 6098, Comparisons: 6098, Time (seconds): 4.089E-4
+
+Selectionsort
+Assignments: 768, Comparisons: 65536, Time (seconds): 1.451E-4
+
+Heapsort
+Assignments: 3006, Comparisons: 6138, Time (seconds): 4.33E-5
+
+Radixsort
+Assignments: 1802, Comparisons: 3361, Time (seconds): 1.641E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 49533, Comparisons: 65791, Time (seconds): 4.21E-5
+
+Mergesort
+Assignments: 4096, Comparisons: 4096, Time (seconds): 2.32E-5
+
+Insertionsort
+Assignments: 32895, Comparisons: 32895, Time (seconds): 0.0018025
+
+Selectionsort
+Assignments: 768, Comparisons: 65536, Time (seconds): 1.848E-4
+
+Heapsort
+Assignments: 2796, Comparisons: 5811, Time (seconds): 6.88E-5
+
+Radixsort
+Assignments: 1802, Comparisons: 3361, Time (seconds): 1.954E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 512:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 393981, Comparisons: 262655, Time (seconds): 2.782E-4
+
+Mergesort
+Assignments: 9216, Comparisons: 9216, Time (seconds): 1.829E-4
+
+Insertionsort
+Assignments: 511, Comparisons: 511, Time (seconds): 1.21E-5
+
+Selectionsort
+Assignments: 1536, Comparisons: 262144, Time (seconds): 9.49E-4
+
+Heapsort
+Assignments: 6766, Comparisons: 14328, Time (seconds): 2.387E-4
+
+Radixsort
+Assignments: 3594, Comparisons: 6689, Time (seconds): 5.693E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 291873, Comparisons: 194785, Time (seconds): 2.523E-4
+
+Mergesort
+Assignments: 9216, Comparisons: 9216, Time (seconds): 1.279E-4
+
+Insertionsort
+Assignments: 1704, Comparisons: 1704, Time (seconds): 1.46E-5
+
+Selectionsort
+Assignments: 1536, Comparisons: 262144, Time (seconds): 8.888E-4
+
+Heapsort
+Assignments: 6714, Comparisons: 14196, Time (seconds): 1.244E-4
+
+Radixsort
+Assignments: 3594, Comparisons: 6689, Time (seconds): 4.905E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 9447, Comparisons: 11493, Time (seconds): 5.02E-5
+
+Mergesort
+Assignments: 9216, Comparisons: 9216, Time (seconds): 1.17E-4
+
+Insertionsort
+Assignments: 62748, Comparisons: 62748, Time (seconds): 3.619E-4
+
+Selectionsort
+Assignments: 1536, Comparisons: 262144, Time (seconds): 9.954E-4
+
+Heapsort
+Assignments: 6450, Comparisons: 13752, Time (seconds): 1.292E-4
+
+Radixsort
+Assignments: 3594, Comparisons: 6689, Time (seconds): 4.871E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 59646, Comparisons: 41411, Time (seconds): 7.09E-5
+
+Mergesort
+Assignments: 9216, Comparisons: 9216, Time (seconds): 1.362E-4
+
+Insertionsort
+Assignments: 21335, Comparisons: 21335, Time (seconds): 1.225E-4
+
+Selectionsort
+Assignments: 1536, Comparisons: 262144, Time (seconds): 9.98E-4
+
+Heapsort
+Assignments: 6539, Comparisons: 13785, Time (seconds): 1.309E-4
+
+Radixsort
+Assignments: 3594, Comparisons: 6689, Time (seconds): 5.223E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 197373, Comparisons: 262655, Time (seconds): 2.622E-4
+
+Mergesort
+Assignments: 9216, Comparisons: 9216, Time (seconds): 8.87E-5
+
+Insertionsort
+Assignments: 131327, Comparisons: 131327, Time (seconds): 6.794E-4
+
+Selectionsort
+Assignments: 1536, Comparisons: 262144, Time (seconds): 1.828E-4
+
+Heapsort
+Assignments: 6080, Comparisons: 13125, Time (seconds): 1.195E-4
+
+Radixsort
+Assignments: 3594, Comparisons: 6689, Time (seconds): 4.709E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 1024:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1574397, Comparisons: 1049599, Time (seconds): 0.0011892
+
+Mergesort
+Assignments: 20480, Comparisons: 20480, Time (seconds): 1.862E-4
+
+Insertionsort
+Assignments: 1023, Comparisons: 1023, Time (seconds): 1.1E-5
+
+Selectionsort
+Assignments: 3072, Comparisons: 1048576, Time (seconds): 5.364E-4
+
+Heapsort
+Assignments: 14574, Comparisons: 31800, Time (seconds): 2.419E-4
+
+Radixsort
+Assignments: 9226, Comparisons: 19500, Time (seconds): 0.001239
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1095585, Comparisons: 731011, Time (seconds): 8.024E-4
+
+Mergesort
+Assignments: 20480, Comparisons: 20480, Time (seconds): 2.076E-4
+
+Insertionsort
+Assignments: 5770, Comparisons: 5770, Time (seconds): 3.62E-5
+
+Selectionsort
+Assignments: 3072, Comparisons: 1048576, Time (seconds): 5.097E-4
+
+Heapsort
+Assignments: 14445, Comparisons: 31437, Time (seconds): 2.864E-4
+
+Radixsort
+Assignments: 9226, Comparisons: 19500, Time (seconds): 0.0012546
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 24069, Comparisons: 24893, Time (seconds): 8.97E-5
+
+Mergesort
+Assignments: 20480, Comparisons: 20480, Time (seconds): 2.361E-4
+
+Insertionsort
+Assignments: 257943, Comparisons: 257943, Time (seconds): 5.428E-4
+
+Selectionsort
+Assignments: 3072, Comparisons: 1048576, Time (seconds): 5.792E-4
+
+Heapsort
+Assignments: 13915, Comparisons: 30591, Time (seconds): 1.9E-4
+
+Radixsort
+Assignments: 7178, Comparisons: 13345, Time (seconds): 7.224E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 206802, Comparisons: 141175, Time (seconds): 1.351E-4
+
+Mergesort
+Assignments: 20480, Comparisons: 20480, Time (seconds): 1.228E-4
+
+Insertionsort
+Assignments: 79286, Comparisons: 79286, Time (seconds): 1.616E-4
+
+Selectionsort
+Assignments: 3072, Comparisons: 1048576, Time (seconds): 3.113E-4
+
+Heapsort
+Assignments: 14091, Comparisons: 30570, Time (seconds): 1.464E-4
+
+Radixsort
+Assignments: 9226, Comparisons: 19500, Time (seconds): 1.741E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 787965, Comparisons: 1049599, Time (seconds): 6.008E-4
+
+Mergesort
+Assignments: 20480, Comparisons: 20480, Time (seconds): 7.57E-5
+
+Insertionsort
+Assignments: 524799, Comparisons: 524799, Time (seconds): 4.141E-4
+
+Selectionsort
+Assignments: 3072, Comparisons: 1048576, Time (seconds): 3.799E-4
+
+Heapsort
+Assignments: 13192, Comparisons: 29301, Time (seconds): 1.378E-4
+
+Radixsort
+Assignments: 9226, Comparisons: 19500, Time (seconds): 1.56E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 2048:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 6294525, Comparisons: 4196351, Time (seconds): 0.0026426
+
+Mergesort
+Assignments: 45056, Comparisons: 45056, Time (seconds): 1.675E-4
+
+Insertionsort
+Assignments: 2047, Comparisons: 2047, Time (seconds): 8.4E-6
+
+Selectionsort
+Assignments: 6144, Comparisons: 4194304, Time (seconds): 0.0011038
+
+Heapsort
+Assignments: 31348, Comparisons: 69720, Time (seconds): 2.727E-4
+
+Radixsort
+Assignments: 18442, Comparisons: 38956, Time (seconds): 3.578E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 4283340, Comparisons: 2857009, Time (seconds): 0.0020077
+
+Mergesort
+Assignments: 45056, Comparisons: 45056, Time (seconds): 1.989E-4
+
+Insertionsort
+Assignments: 22370, Comparisons: 22370, Time (seconds): 2.71E-5
+
+Selectionsort
+Assignments: 6144, Comparisons: 4194304, Time (seconds): 0.0011172
+
+Heapsort
+Assignments: 30955, Comparisons: 68985, Time (seconds): 2.836E-4
+
+Radixsort
+Assignments: 18442, Comparisons: 38956, Time (seconds): 4.124E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 61173, Comparisons: 62117, Time (seconds): 1.559E-4
+
+Mergesort
+Assignments: 45056, Comparisons: 45056, Time (seconds): 3.292E-4
+
+Insertionsort
+Assignments: 1060707, Comparisons: 1060707, Time (seconds): 8.337E-4
+
+Selectionsort
+Assignments: 6144, Comparisons: 4194304, Time (seconds): 0.0011741
+
+Heapsort
+Assignments: 29829, Comparisons: 67194, Time (seconds): 3.045E-4
+
+Radixsort
+Assignments: 14346, Comparisons: 26657, Time (seconds): 3.151E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 623727, Comparisons: 423597, Time (seconds): 3.525E-4
+
+Mergesort
+Assignments: 45056, Comparisons: 45056, Time (seconds): 2.236E-4
+
+Insertionsort
+Assignments: 338464, Comparisons: 338464, Time (seconds): 2.727E-4
+
+Selectionsort
+Assignments: 6144, Comparisons: 4194304, Time (seconds): 0.001238
+
+Heapsort
+Assignments: 30212, Comparisons: 67290, Time (seconds): 3.074E-4
+
+Radixsort
+Assignments: 18442, Comparisons: 38956, Time (seconds): 3.783E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 3148797, Comparisons: 4196351, Time (seconds): 0.0022797
+
+Mergesort
+Assignments: 45056, Comparisons: 45056, Time (seconds): 1.726E-4
+
+Insertionsort
+Assignments: 2098175, Comparisons: 2098175, Time (seconds): 0.0016357
+
+Selectionsort
+Assignments: 6144, Comparisons: 4194304, Time (seconds): 0.0014526
+
+Heapsort
+Assignments: 28372, Comparisons: 64602, Time (seconds): 2.746E-4
+
+Radixsort
+Assignments: 18442, Comparisons: 38956, Time (seconds): 3.964E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 4096:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 25171965, Comparisons: 16781311, Time (seconds): 0.010502
+
+Mergesort
+Assignments: 98304, Comparisons: 98304, Time (seconds): 3.59E-4
+
+Insertionsort
+Assignments: 4095, Comparisons: 4095, Time (seconds): 1.55E-5
+
+Selectionsort
+Assignments: 12288, Comparisons: 16777216, Time (seconds): 0.0043613
+
+Heapsort
+Assignments: 66982, Comparisons: 151956, Time (seconds): 5.628E-4
+
+Radixsort
+Assignments: 36874, Comparisons: 77868, Time (seconds): 9.055E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 16809870, Comparisons: 11209797, Time (seconds): 0.0070244
+
+Mergesort
+Assignments: 98304, Comparisons: 98304, Time (seconds): 3.8E-4
+
+Insertionsort
+Assignments: 86038, Comparisons: 86038, Time (seconds): 8.42E-5
+
+Selectionsort
+Assignments: 12288, Comparisons: 16777216, Time (seconds): 0.0044022
+
+Heapsort
+Assignments: 66155, Comparisons: 150219, Time (seconds): 5.702E-4
+
+Radixsort
+Assignments: 36874, Comparisons: 77868, Time (seconds): 4.966E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 192786, Comparisons: 170975, Time (seconds): 2.311E-4
+
+Mergesort
+Assignments: 98304, Comparisons: 98304, Time (seconds): 4.963E-4
+
+Insertionsort
+Assignments: 4206229, Comparisons: 4206229, Time (seconds): 0.0032632
+
+Selectionsort
+Assignments: 12288, Comparisons: 16777216, Time (seconds): 0.0045104
+
+Heapsort
+Assignments: 63793, Comparisons: 146769, Time (seconds): 6.186E-4
+
+Radixsort
+Assignments: 28682, Comparisons: 53281, Time (seconds): 3.344E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 2044185, Comparisons: 1380657, Time (seconds): 0.0010499
+
+Mergesort
+Assignments: 98304, Comparisons: 98304, Time (seconds): 4.577E-4
+
+Insertionsort
+Assignments: 1361901, Comparisons: 1361901, Time (seconds): 0.001071
+
+Selectionsort
+Assignments: 12288, Comparisons: 16777216, Time (seconds): 0.0045688
+
+Heapsort
+Assignments: 64434, Comparisons: 146661, Time (seconds): 6.207E-4
+
+Radixsort
+Assignments: 36874, Comparisons: 77868, Time (seconds): 4.698E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 12589053, Comparisons: 16781311, Time (seconds): 0.0090271
+
+Mergesort
+Assignments: 98304, Comparisons: 98304, Time (seconds): 3.323E-4
+
+Insertionsort
+Assignments: 8390655, Comparisons: 8390655, Time (seconds): 0.0064982
+
+Selectionsort
+Assignments: 12288, Comparisons: 16777216, Time (seconds): 0.0059768
+
+Heapsort
+Assignments: 61016, Comparisons: 141723, Time (seconds): 5.772E-4
+
+Radixsort
+Assignments: 36874, Comparisons: 77868, Time (seconds): 4.705E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 8192:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 100675581, Comparisons: 67117055, Time (seconds): 0.041748
+
+Mergesort
+Assignments: 212992, Comparisons: 212992, Time (seconds): 6.446E-4
+
+Insertionsort
+Assignments: 8191, Comparisons: 8191, Time (seconds): 3.41E-5
+
+Selectionsort
+Assignments: 24576, Comparisons: 67108864, Time (seconds): 0.0173334
+
+Heapsort
+Assignments: 141686, Comparisons: 328461, Time (seconds): 6.482E-4
+
+Radixsort
+Assignments: 73738, Comparisons: 155692, Time (seconds): 9.404E-4
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 66667074, Comparisons: 44453057, Time (seconds): 0.0276558
+
+Mergesort
+Assignments: 212992, Comparisons: 212992, Time (seconds): 7.304E-4
+
+Insertionsort
+Assignments: 350130, Comparisons: 350130, Time (seconds): 2.988E-4
+
+Selectionsort
+Assignments: 24576, Comparisons: 67108864, Time (seconds): 0.0173843
+
+Heapsort
+Assignments: 140156, Comparisons: 324615, Time (seconds): 4.988E-4
+
+Radixsort
+Assignments: 73738, Comparisons: 155692, Time (seconds): 9.409E-4
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 635706, Comparisons: 494853, Time (seconds): 5.653E-4
+
+Mergesort
+Assignments: 212992, Comparisons: 212992, Time (seconds): 9.998E-4
+
+Insertionsort
+Assignments: 16668975, Comparisons: 16668975, Time (seconds): 0.0128899
+
+Selectionsort
+Assignments: 24576, Comparisons: 67108864, Time (seconds): 0.0176082
+
+Heapsort
+Assignments: 135655, Comparisons: 317832, Time (seconds): 5.683E-4
+
+Radixsort
+Assignments: 57354, Comparisons: 106529, Time (seconds): 6.437E-4
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 6722628, Comparisons: 4522473, Time (seconds): 0.0032734
+
+Mergesort
+Assignments: 212992, Comparisons: 212992, Time (seconds): 9.44E-4
+
+Insertionsort
+Assignments: 5419239, Comparisons: 5419239, Time (seconds): 0.0042167
+
+Selectionsort
+Assignments: 24576, Comparisons: 67108864, Time (seconds): 0.0176163
+
+Heapsort
+Assignments: 137058, Comparisons: 317856, Time (seconds): 5.787E-4
+
+Radixsort
+Assignments: 73738, Comparisons: 155692, Time (seconds): 9.515E-4
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 50343933, Comparisons: 67117055, Time (seconds): 0.0360424
+
+Mergesort
+Assignments: 212992, Comparisons: 212992, Time (seconds): 6.863E-4
+
+Insertionsort
+Assignments: 33558527, Comparisons: 33558527, Time (seconds): 0.0259132
+
+Selectionsort
+Assignments: 24576, Comparisons: 67108864, Time (seconds): 0.0233818
+
+Heapsort
+Assignments: 130136, Comparisons: 308457, Time (seconds): 4.377E-4
+
+Radixsort
+Assignments: 73738, Comparisons: 155692, Time (seconds): 9.536E-4
+====================
+
+
+
+====================
+ARRAY LENGTH 16384:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 402677757, Comparisons: 268451839, Time (seconds): 0.1683426
+
+Mergesort
+Assignments: 458752, Comparisons: 458752, Time (seconds): 0.0014729
+
+Insertionsort
+Assignments: 16383, Comparisons: 16383, Time (seconds): 6.17E-5
+
+Selectionsort
+Assignments: 49152, Comparisons: 268435456, Time (seconds): 0.0691046
+
+Heapsort
+Assignments: 299140, Comparisons: 706056, Time (seconds): 0.0010114
+
+Radixsort
+Assignments: 180234, Comparisons: 426039, Time (seconds): 0.0024437
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 263920926, Comparisons: 175965181, Time (seconds): 0.1092505
+
+Mergesort
+Assignments: 458752, Comparisons: 458752, Time (seconds): 0.0016839
+
+Insertionsort
+Assignments: 1340739, Comparisons: 1340739, Time (seconds): 0.0010899
+
+Selectionsort
+Assignments: 49152, Comparisons: 268435456, Time (seconds): 0.0838769
+
+Heapsort
+Assignments: 296295, Comparisons: 698253, Time (seconds): 8.379E-4
+
+Radixsort
+Assignments: 180234, Comparisons: 426039, Time (seconds): 0.0022943
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 2313288, Comparisons: 1679487, Time (seconds): 0.0015361
+
+Mergesort
+Assignments: 458752, Comparisons: 458752, Time (seconds): 0.002008
+
+Insertionsort
+Assignments: 66401534, Comparisons: 66401534, Time (seconds): 0.051294
+
+Selectionsort
+Assignments: 49152, Comparisons: 268435456, Time (seconds): 0.0709167
+
+Heapsort
+Assignments: 287615, Comparisons: 684504, Time (seconds): 0.0010966
+
+Radixsort
+Assignments: 114698, Comparisons: 213025, Time (seconds): 0.0012754
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 24286038, Comparisons: 16280919, Time (seconds): 0.0111997
+
+Mergesort
+Assignments: 458752, Comparisons: 458752, Time (seconds): 0.0020185
+
+Insertionsort
+Assignments: 21657311, Comparisons: 21657311, Time (seconds): 0.0167664
+
+Selectionsort
+Assignments: 49152, Comparisons: 268435456, Time (seconds): 0.0968876
+
+Heapsort
+Assignments: 290579, Comparisons: 684915, Time (seconds): 0.0010949
+
+Radixsort
+Assignments: 180234, Comparisons: 426039, Time (seconds): 0.0023894
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 201351165, Comparisons: 268451839, Time (seconds): 0.1436923
+
+Mergesort
+Assignments: 458752, Comparisons: 458752, Time (seconds): 0.0015188
+
+Insertionsort
+Assignments: 134225919, Comparisons: 134225919, Time (seconds): 0.1037066
+
+Selectionsort
+Assignments: 49152, Comparisons: 268435456, Time (seconds): 0.0929215
+
+Heapsort
+Assignments: 276524, Comparisons: 665328, Time (seconds): 7.699E-4
+
+Radixsort
+Assignments: 180234, Comparisons: 426039, Time (seconds): 0.0023475
+====================
+
+
+
+====================
+ARRAY LENGTH 32768:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1610661885, Comparisons: 1073774591, Time (seconds): 0.7178082
+
+Mergesort
+Assignments: 983040, Comparisons: 983040, Time (seconds): 0.0062649
+
+Insertionsort
+Assignments: 32767, Comparisons: 32767, Time (seconds): 2.317E-4
+
+Selectionsort
+Assignments: 98304, Comparisons: 1073741824, Time (seconds): 0.2921791
+
+Heapsort
+Assignments: 631922, Comparisons: 1510494, Time (seconds): 0.0014916
+
+Radixsort
+Assignments: 360458, Comparisons: 852023, Time (seconds): 0.0046927
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1048385019, Comparisons: 698963783, Time (seconds): 0.4331338
+
+Mergesort
+Assignments: 983040, Comparisons: 983040, Time (seconds): 0.00319
+
+Insertionsort
+Assignments: 5498633, Comparisons: 5498633, Time (seconds): 0.0043458
+
+Selectionsort
+Assignments: 98304, Comparisons: 1073741824, Time (seconds): 0.2919593
+
+Heapsort
+Assignments: 625779, Comparisons: 1494888, Time (seconds): 0.0017506
+
+Radixsort
+Assignments: 360458, Comparisons: 852023, Time (seconds): 0.0047979
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 8606712, Comparisons: 6047229, Time (seconds): 0.0047152
+
+Mergesort
+Assignments: 983040, Comparisons: 983040, Time (seconds): 0.0041767
+
+Insertionsort
+Assignments: 268873828, Comparisons: 268873828, Time (seconds): 0.2077681
+
+Selectionsort
+Assignments: 98304, Comparisons: 1073741824, Time (seconds): 0.2772172
+
+Heapsort
+Assignments: 607842, Comparisons: 1466910, Time (seconds): 0.0023144
+
+Radixsort
+Assignments: 229386, Comparisons: 426017, Time (seconds): 0.0025599
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 86931015, Comparisons: 58150831, Time (seconds): 0.0389858
+
+Mergesort
+Assignments: 983040, Comparisons: 983040, Time (seconds): 0.0041641
+
+Insertionsort
+Assignments: 87284775, Comparisons: 87284775, Time (seconds): 0.067425
+
+Selectionsort
+Assignments: 98304, Comparisons: 1073741824, Time (seconds): 0.3029781
+
+Heapsort
+Assignments: 614003, Comparisons: 1468260, Time (seconds): 0.0052924
+
+Radixsort
+Assignments: 360458, Comparisons: 852023, Time (seconds): 0.0075729
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 805355517, Comparisons: 1073774591, Time (seconds): 0.5741555
+
+Mergesort
+Assignments: 983040, Comparisons: 983040, Time (seconds): 0.0020613
+
+Insertionsort
+Assignments: 536887295, Comparisons: 536887295, Time (seconds): 0.4294025
+
+Selectionsort
+Assignments: 98304, Comparisons: 1073741824, Time (seconds): 0.4038696
+
+Heapsort
+Assignments: 586494, Comparisons: 1429752, Time (seconds): 0.0015812
+
+Radixsort
+Assignments: 360458, Comparisons: 852023, Time (seconds): 0.0034092
+====================
+
+
+
+====================
+ARRAY LENGTH 65536:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 6442549245, Comparisons: 4295032831, Time (seconds): 2.72855
+
+Mergesort
+Assignments: 2097152, Comparisons: 2097152, Time (seconds): 0.003837
+
+Insertionsort
+Assignments: 65535, Comparisons: 65535, Time (seconds): 1.682E-4
+
+Selectionsort
+Assignments: 196608, Comparisons: 4294967296, Time (seconds): 1.127272
+
+Heapsort
+Assignments: 1332638, Comparisons: 3220293, Time (seconds): 0.0030488
+
+Radixsort
+Assignments: 720906, Comparisons: 1703991, Time (seconds): 0.0067266
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 4173445344, Comparisons: 2782385245, Time (seconds): 1.780635
+
+Mergesort
+Assignments: 2097152, Comparisons: 2097152, Time (seconds): 0.0044335
+
+Insertionsort
+Assignments: 21654763, Comparisons: 21654763, Time (seconds): 0.0168384
+
+Selectionsort
+Assignments: 196608, Comparisons: 4294967296, Time (seconds): 1.1447041
+
+Heapsort
+Assignments: 1319154, Comparisons: 3187683, Time (seconds): 0.0036106
+
+Radixsort
+Assignments: 720906, Comparisons: 1703991, Time (seconds): 0.0067465
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 33364743, Comparisons: 22842999, Time (seconds): 0.0159035
+
+Mergesort
+Assignments: 2097152, Comparisons: 2097152, Time (seconds): 0.0064482
+
+Insertionsort
+Assignments: 1069975159, Comparisons: 1069975159, Time (seconds): 0.8575781
+
+Selectionsort
+Assignments: 196608, Comparisons: 4294967296, Time (seconds): 1.1323384
+
+Heapsort
+Assignments: 1280373, Comparisons: 3127917, Time (seconds): 0.0046435
+
+Radixsort
+Assignments: 458762, Comparisons: 852001, Time (seconds): 0.0041922
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 323330724, Comparisons: 215981077, Time (seconds): 0.1551536
+
+Mergesort
+Assignments: 2097152, Comparisons: 2097152, Time (seconds): 0.0065811
+
+Insertionsort
+Assignments: 342341964, Comparisons: 342341964, Time (seconds): 0.2949478
+
+Selectionsort
+Assignments: 196608, Comparisons: 4294967296, Time (seconds): 1.1404545
+
+Heapsort
+Assignments: 1293425, Comparisons: 3132897, Time (seconds): 0.0050413
+
+Radixsort
+Assignments: 720906, Comparisons: 1703991, Time (seconds): 0.0089229
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 3221323773, Comparisons: 4295032831, Time (seconds): 2.3759378
+
+Mergesort
+Assignments: 2097152, Comparisons: 2097152, Time (seconds): 0.0039983
+
+Insertionsort
+Assignments: 2147516415, Comparisons: 2147516415, Time (seconds): 1.713421
+
+Selectionsort
+Assignments: 196608, Comparisons: 4294967296, Time (seconds): 1.5609751
+
+Heapsort
+Assignments: 1240270, Comparisons: 3057495, Time (seconds): 0.0032327
+
+Radixsort
+Assignments: 720906, Comparisons: 1703991, Time (seconds): 0.0068876
+====================
+
+
+
+====================
+ARRAY LENGTH 131072:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 25770000381, Comparisons: 17180000255, Time (seconds): 10.9996461
+
+Mergesort
+Assignments: 4456448, Comparisons: 4456448, Time (seconds): 0.0078229
+
+Insertionsort
+Assignments: 131071, Comparisons: 131071, Time (seconds): 3.507E-4
+
+Selectionsort
+Assignments: 393216, Comparisons: 17179869184, Time (seconds): 4.5782216
+
+Heapsort
+Assignments: 2791018, Comparisons: 6833853, Time (seconds): 0.0062983
+
+Radixsort
+Assignments: 1703946, Comparisons: 4456514, Time (seconds): 0.0158849
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 16638671808, Comparisons: 11092641017, Time (seconds): 7.1028179
+
+Mergesort
+Assignments: 4456448, Comparisons: 4456448, Time (seconds): 0.0202163
+
+Insertionsort
+Assignments: 85630677, Comparisons: 85630677, Time (seconds): 0.0793229
+
+Selectionsort
+Assignments: 393216, Comparisons: 17179869184, Time (seconds): 4.5163225
+
+Heapsort
+Assignments: 2766387, Comparisons: 6769248, Time (seconds): 0.0076056
+
+Radixsort
+Assignments: 1703946, Comparisons: 4456514, Time (seconds): 0.0159433
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 131037639, Comparisons: 88478513, Time (seconds): 0.0582043
+
+Mergesort
+Assignments: 4456448, Comparisons: 4456448, Time (seconds): 0.0127415
+
+Insertionsort
+Assignments: 4265987304, Comparisons: 4265987304, Time (seconds): 3.4361693
+
+Selectionsort
+Assignments: 393216, Comparisons: 17179869184, Time (seconds): 4.6040369
+
+Heapsort
+Assignments: 2692819, Comparisons: 6649854, Time (seconds): 0.0094481
+
+Radixsort
+Assignments: 917514, Comparisons: 1703969, Time (seconds): 0.0082992
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1217559996, Comparisons: 812628673, Time (seconds): 0.5521199
+
+Mergesort
+Assignments: 4456448, Comparisons: 4456448, Time (seconds): 0.0135226
+
+Insertionsort
+Assignments: 1372699637, Comparisons: 1372699637, Time (seconds): 1.0783649
+
+Selectionsort
+Assignments: 393216, Comparisons: 17179869184, Time (seconds): 4.5909661
+
+Heapsort
+Assignments: 2717911, Comparisons: 6658377, Time (seconds): 0.011196
+
+Radixsort
+Assignments: 1703946, Comparisons: 4456514, Time (seconds): 0.0160871
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 12885098493, Comparisons: 17180000255, Time (seconds): 9.5660426
+
+Mergesort
+Assignments: 4456448, Comparisons: 4456448, Time (seconds): 0.0078513
+
+Insertionsort
+Assignments: 8590000127, Comparisons: 8590000127, Time (seconds): 6.9040049
+
+Selectionsort
+Assignments: 393216, Comparisons: 17179869184, Time (seconds): 6.2384876
+
+Heapsort
+Assignments: 2603880, Comparisons: 6505845, Time (seconds): 0.0068509
+
+Radixsort
+Assignments: 1703946, Comparisons: 4456514, Time (seconds): 0.0159695
+====================
+
+
+
+====================
+ARRAY LENGTH 262144:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 103079608317, Comparisons: 68719738879, Time (seconds): 44.4950858
+
+Mergesort
+Assignments: 9437184, Comparisons: 9437184, Time (seconds): 0.0194882
+
+Insertionsort
+Assignments: 262143, Comparisons: 262143, Time (seconds): 7.052E-4
+
+Selectionsort
+Assignments: 786432, Comparisons: 68719476736, Time (seconds): 18.2959793
+
+Heapsort
+Assignments: 5840642, Comparisons: 14454036, Time (seconds): 0.0128138
+
+Radixsort
+Assignments: 3407882, Comparisons: 8912962, Time (seconds): 0.0399527
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 66359947425, Comparisons: 44240393817, Time (seconds): 28.5086316
+
+Mergesort
+Assignments: 9437184, Comparisons: 9437184, Time (seconds): 0.0197058
+
+Insertionsort
+Assignments: 344161201, Comparisons: 344161201, Time (seconds): 0.2662342
+
+Selectionsort
+Assignments: 786432, Comparisons: 68719476736, Time (seconds): 18.386625
+
+Heapsort
+Assignments: 5788831, Comparisons: 14331756, Time (seconds): 0.016235
+
+Radixsort
+Assignments: 3407882, Comparisons: 8912962, Time (seconds): 0.0355642
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 519368520, Comparisons: 349171373, Time (seconds): 0.2305291
+
+Mergesort
+Assignments: 9437184, Comparisons: 9437184, Time (seconds): 0.0353233
+
+Insertionsort
+Assignments: 17109816973, Comparisons: 17109816973, Time (seconds): 13.7292743
+
+Selectionsort
+Assignments: 786432, Comparisons: 68719476736, Time (seconds): 18.531651
+
+Heapsort
+Assignments: 5644588, Comparisons: 14078922, Time (seconds): 0.0193849
+
+Radixsort
+Assignments: 1835018, Comparisons: 3407905, Time (seconds): 0.0167878
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 4617793302, Comparisons: 3080555587, Time (seconds): 2.0462268
+
+Mergesort
+Assignments: 9437184, Comparisons: 9437184, Time (seconds): 0.0554393
+
+Insertionsort
+Assignments: 5512768698, Comparisons: 5512768698, Time (seconds): 4.6014046
+
+Selectionsort
+Assignments: 786432, Comparisons: 68719476736, Time (seconds): 18.4279083
+
+Heapsort
+Assignments: 5697784, Comparisons: 14103381, Time (seconds): 0.0244164
+
+Radixsort
+Assignments: 3407882, Comparisons: 8912962, Time (seconds): 0.0375718
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 51540000765, Comparisons: 68719738879, Time (seconds): 38.2556459
+
+Mergesort
+Assignments: 9437184, Comparisons: 9437184, Time (seconds): 0.017463
+
+Insertionsort
+Assignments: 34359869439, Comparisons: 34359869439, Time (seconds): 27.8361272
+
+Selectionsort
+Assignments: 786432, Comparisons: 68719476736, Time (seconds): 24.2549933
+
+Heapsort
+Assignments: 5470744, Comparisons: 13787964, Time (seconds): 0.0140026
+
+Radixsort
+Assignments: 3407882, Comparisons: 8912962, Time (seconds): 0.0367893
+====================
+
+
+
+====================
+ARRAY LENGTH 524288:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 412317646845, Comparisons: 274878431231, Time (seconds): 177.5256084
+
+Mergesort
+Assignments: 19922944, Comparisons: 19922944, Time (seconds): 0.0517643
+
+Insertionsort
+Assignments: 524287, Comparisons: 524287, Time (seconds): 0.0014256
+
+Selectionsort
+Assignments: 1572864, Comparisons: 274877906944, Time (seconds): 73.8683101
+
+Heapsort
+Assignments: 12236966, Comparisons: 30534567, Time (seconds): 0.0263141
+
+Radixsort
+Assignments: 6815754, Comparisons: 17825858, Time (seconds): 0.0992211
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 265036158858, Comparisons: 176691689301, Time (seconds): 114.1578767
+
+Mergesort
+Assignments: 19922944, Comparisons: 19922944, Time (seconds): 0.0579315
+
+Insertionsort
+Assignments: 1374993155, Comparisons: 1374993155, Time (seconds): 1.1033627
+
+Selectionsort
+Assignments: 1572864, Comparisons: 274877906944, Time (seconds): 72.9101457
+
+Heapsort
+Assignments: 12130412, Comparisons: 30253716, Time (seconds): 0.0341922
+
+Radixsort
+Assignments: 6815754, Comparisons: 17825858, Time (seconds): 0.1038356
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 2071717053, Comparisons: 1385819259, Time (seconds): 0.8810915
+
+Mergesort
+Assignments: 19922944, Comparisons: 19922944, Time (seconds): 0.054225
+
+Insertionsort
+Assignments: 68382567274, Comparisons: 68382567274, Time (seconds): 54.4112473
+
+Selectionsort
+Assignments: 1572864, Comparisons: 274877906944, Time (seconds): 72.5972778
+
+Heapsort
+Assignments: 11808426, Comparisons: 29716968, Time (seconds): 0.0412242
+
+Radixsort
+Assignments: 3670026, Comparisons: 6815777, Time (seconds): 0.0501689
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 17952352854, Comparisons: 11972526643, Time (seconds): 7.7343084
+
+Mergesort
+Assignments: 19922944, Comparisons: 19922944, Time (seconds): 0.0650347
+
+Insertionsort
+Assignments: 21957925305, Comparisons: 21957925305, Time (seconds): 17.4673573
+
+Selectionsort
+Assignments: 1572864, Comparisons: 274877906944, Time (seconds): 72.7362796
+
+Heapsort
+Assignments: 11919988, Comparisons: 29780334, Time (seconds): 0.053037
+
+Radixsort
+Assignments: 6815754, Comparisons: 17825858, Time (seconds): 0.1009912
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 206159216637, Comparisons: 274878431231, Time (seconds): 150.9411206
+
+Mergesort
+Assignments: 19922944, Comparisons: 19922944, Time (seconds): 0.0346684
+
+Insertionsort
+Assignments: 137439215615, Comparisons: 137439215615, Time (seconds): 109.3910716
+
+Selectionsort
+Assignments: 1572864, Comparisons: 274877906944, Time (seconds): 95.2974616
+
+Heapsort
+Assignments: 11459570, Comparisons: 29138199, Time (seconds): 0.0286979
+
+Radixsort
+Assignments: 6815754, Comparisons: 17825858, Time (seconds): 0.0845694
+====================
+
+
+
+====================
+ARRAY LENGTH 1048576:
+
+Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1649269014525, Comparisons: 1099512676351, Time (seconds): 699.6842145
+
+Mergesort
+Assignments: 41943040, Comparisons: 41943040, Time (seconds): 0.0996114
+
+Insertionsort
+Assignments: 1048575, Comparisons: 1048575, Time (seconds): 0.0028889
+
+Selectionsort
+Assignments: 3145728, Comparisons: 1099511627776, Time (seconds): 290.1959933
+
+Heapsort
+Assignments: 25603254, Comparisons: 64254006, Time (seconds): 0.0538934
+
+Radixsort
+Assignments: 15728650, Comparisons: 45088845, Time (seconds): 0.2263652
+
+Eighty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 1058836337322, Comparisons: 705892882723, Time (seconds): 449.6142501
+
+Mergesort
+Assignments: 41943040, Comparisons: 41943040, Time (seconds): 0.1193339
+
+Insertionsort
+Assignments: 5498773073, Comparisons: 5498773073, Time (seconds): 4.3518524
+
+Selectionsort
+Assignments: 3145728, Comparisons: 1099511627776, Time (seconds): 290.3146539
+
+Heapsort
+Assignments: 25352778, Comparisons: 63677553, Time (seconds): 0.0743957
+
+Radixsort
+Assignments: 15728650, Comparisons: 45088845, Time (seconds): 0.2202714
+
+Random Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 8262793758, Comparisons: 5519026349, Time (seconds): 3.591265
+
+Mergesort
+Assignments: 41943040, Comparisons: 41943040, Time (seconds): 0.1159066
+
+Insertionsort
+Assignments: 273393966646, Comparisons: 273393966646, Time (seconds): 217.7675643
+
+Selectionsort
+Assignments: 3145728, Comparisons: 1099511627776, Time (seconds): 290.3693743
+
+Heapsort
+Assignments: 24663890, Comparisons: 62571120, Time (seconds): 0.0826988
+
+Radixsort
+Assignments: 7340042, Comparisons: 13631521, Time (seconds): 0.0998519
+
+Twenty Percent Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 70024978149, Comparisons: 46692468481, Time (seconds): 30.1903946
+
+Mergesort
+Assignments: 41943040, Comparisons: 41943040, Time (seconds): 0.1647216
+
+Insertionsort
+Assignments: 87931981759, Comparisons: 87931981759, Time (seconds): 69.9515575
+
+Selectionsort
+Assignments: 3145728, Comparisons: 1099511627776, Time (seconds): 290.5865151
+
+Heapsort
+Assignments: 24888523, Comparisons: 62706540, Time (seconds): 0.1153073
+
+Radixsort
+Assignments: 15728650, Comparisons: 45088845, Time (seconds): 0.2321824
+
+Reverse Sorted Array
+------------------------------------------------------------------
+Quicksort
+Assignments: 824635293693, Comparisons: 1099512676351, Time (seconds): 602.5246053
+
+Mergesort
+Assignments: 41943040, Comparisons: 41943040, Time (seconds): 0.0874042
+
+Insertionsort
+Assignments: 549756338175, Comparisons: 549756338175, Time (seconds): 436.7344851
+
+Selectionsort
+Assignments: 3145728, Comparisons: 1099511627776, Time (seconds): 380.700069
+
+Heapsort
+Assignments: 24018298, Comparisons: 61490430, Time (seconds): 0.0588329
+
+Radixsort
+Assignments: 15728650, Comparisons: 45088845, Time (seconds): 0.1863008
+BUILD SUCCESSFUL (total time: 90 minutes 25 seconds)
